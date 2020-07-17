@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/TEST_WEB/Phattv_130678/BookingManagement_1/src/java/daos/UserDAO.java</file>
+            <file>file:/D:/TEST_WEB/Phattv_130678/BookingManagement_1/src/java/controllers/UpdateBookController.java</file>
+            <file>file:/D:/TEST_WEB/Phattv_130678/BookingManagement_1/web/invalid.jsp</file>
+            <file>file:/D:/TEST_WEB/Phattv_130678/BookingManagement_1/src/java/controllers/RegisterController.java</file>
+            <file>file:/D:/TEST_WEB/Phattv_130678/BookingManagement_1/src/java/controllers/DeleteBookController.java</file>
+            <file>file:/D:/TEST_WEB/Phattv_130678/BookingManagement_1/src/java/daos/OrderDAO.java</file>
+            <file>file:/D:/TEST_WEB/Phattv_130678/BookingManagement_1/src/java/utils/CommonUtil.java</file>
+            <file>file:/D:/TEST_WEB/Phattv_130678/BookingManagement_1/web/register.jsp</file>
+            <file>file:/D:/TEST_WEB/Phattv_130678/BookingManagement_1/src/java/controllers/ShowABookDetailController.java</file>
+            <file>file:/D:/TEST_WEB/Phattv_130678/BookingManagement_1/src/java/controllers/ShowBookController.java</file>
+            <file>file:/D:/TEST_WEB/Phattv_130678/BookingManagement_1/web/footer.jsp</file>
+            <file>file:/D:/TEST_WEB/Phattv_130678/BookingManagement_1/web/WEB-INF/web.xml</file>
+            <file>file:/D:/TEST_WEB/Phattv_130678/BookingManagement_1/src/java/daos/RoleDAO.java</file>
+            <file>file:/D:/TEST_WEB/Phattv_130678/BookingManagement_1/src/java/dtos/CartDTO.java</file>
+            <file>file:/D:/TEST_WEB/Phattv_130678/BookingManagement_1/web/WEB-INF/log4j.properties</file>
+            <file>file:/D:/TEST_WEB/Phattv_130678/BookingManagement_1/web/bookDetail.jsp</file>
+            <file>file:/D:/TEST_WEB/Phattv_130678/BookingManagement_1/src/java/utils/ContextListener.java</file>
+            <file>file:/D:/TEST_WEB/Phattv_130678/BookingManagement_1/src/java/dtos/UserDTO.java</file>
+            <file>file:/D:/TEST_WEB/Phattv_130678/BookingManagement_1/src/java/controllers/DeleteCartController.java</file>
+            <file>file:/D:/TEST_WEB/Phattv_130678/BookingManagement_1/src/java/daos/OrderDetailDAO.java</file>
+            <file>file:/D:/TEST_WEB/Phattv_130678/BookingManagement_1/src/java/daos/BookDAO.java</file>
+            <file>file:/D:/TEST_WEB/Phattv_130678/BookingManagement_1/src/java/controllers/UpdateCartController.java</file>
+            <file>file:/D:/TEST_WEB/Phattv_130678/BookingManagement_1/web/cart.jsp</file>
+            <file>file:/D:/TEST_WEB/Phattv_130678/BookingManagement_1/src/java/controllers/CheckOutController.java</file>
+            <file>file:/D:/TEST_WEB/Phattv_130678/BookingManagement_1/src/java/controllers/LogoutController.java</file>
+            <file>file:/D:/TEST_WEB/Phattv_130678/BookingManagement_1/web/updateBook.jsp</file>
+            <file>file:/D:/TEST_WEB/Phattv_130678/BookingManagement_1/web/login.jsp</file>
+            <file>file:/D:/TEST_WEB/Phattv_130678/BookingManagement_1/web/shop.jsp</file>
+            <file>file:/D:/TEST_WEB/Phattv_130678/BookingManagement_1/src/java/controllers/MainController.java</file>
+            <file>file:/D:/TEST_WEB/Phattv_130678/BookingManagement_1/web/header.jsp</file>
+            <file>file:/D:/TEST_WEB/Phattv_130678/BookingManagement_1/src/java/controllers/AddToCartController.java</file>
+            <file>file:/D:/TEST_WEB/Phattv_130678/BookingManagement_1/src/java/controllers/InsertBookController.java</file>
+            <file>file:/D:/TEST_WEB/Phattv_130678/BookingManagement_1/src/java/controllers/LoginController.java</file>
+            <file>file:/D:/TEST_WEB/Phattv_130678/BookingManagement_1/web/insertBook.jsp</file>
+        </group>
+    </open-files>
+</project-private>
